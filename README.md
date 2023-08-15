@@ -1,1 +1,1 @@
-# Veracity-Assessment-for-News-Content
+# Veracity-Assessment-For-News-Content
